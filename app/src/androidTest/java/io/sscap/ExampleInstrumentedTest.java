@@ -1,4 +1,4 @@
-package io.github.jsbxyyx.sscap;
+package io.sscap;
 
 import android.content.Context;
 
