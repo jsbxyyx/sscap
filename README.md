@@ -1,0 +1,2 @@
+# sscap
+Android simple screenshot
